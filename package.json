@@ -1,18 +1,18 @@
 {
-  "name": "atom-earthsong-syntax",
+  "name": "rees-earthsong-syntax",
   "theme": "syntax",
   "version": "0.0.1",
   "description": "A port of Dayle Rees's Earthsong color scheme",
   "keywords": [
     "syntax",
     "theme",
-	"Dayle",
-	"Rees",
-	"earthsong"
+    "Dayle",
+    "Rees",
+    "earthsong"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daverona/atom-earthsong-syntax.git"
+    "url": "git+https://github.com/daverona/rees-earthsong-syntax.git"
   },
   "license": "MIT",
   "engines": {
