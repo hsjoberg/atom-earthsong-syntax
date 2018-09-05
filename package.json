@@ -8,7 +8,9 @@
     "theme",
     "Dayle",
     "Rees",
-    "earthsong"
+    "earthsong",
+    "daVerona",
+    "daverona"
   ],
   "repository": "https://github.com/daverona/atom-rees-earthsong-syntax.git",
   "license": "MIT",
