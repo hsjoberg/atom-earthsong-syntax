@@ -1,7 +1,7 @@
 {
   "name": "rees-earthsong-syntax",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A port of Dayle Rees's Earthsong color scheme for Atom",
   "keywords": [
     "syntax",
