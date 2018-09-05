@@ -1,7 +1,7 @@
 {
-  "name": "rees-earthsong-syntax",
+  "name": "daverona-earthsong-syntax",
   "theme": "syntax",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "description": "A port of Dayle Rees's Earthsong color scheme for Atom",
   "keywords": [
     "syntax",
@@ -12,7 +12,7 @@
     "daVerona",
     "daverona"
   ],
-  "repository": "https://github.com/daverona/atom-rees-earthsong-syntax.git",
+  "repository": "https://github.com/daverona/atom-earthsong-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
