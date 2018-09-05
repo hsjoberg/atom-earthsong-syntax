@@ -10,10 +10,7 @@
     "Rees",
     "earthsong"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/daverona/rees-earthsong-syntax.git"
-  },
+  "repository": "https://github.com/daverona/rees-earthsong-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
