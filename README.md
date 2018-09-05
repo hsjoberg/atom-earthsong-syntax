@@ -4,6 +4,7 @@ A port of Dayle Rees's Earthsong color scheme for Atom
 
 ## Preview
 
+```html
 <pre style="font-family:Monaco, monospace; padding:2em; background-color: #36312C; color: #EBD1B7;">
 &lt;?php
 
@@ -49,6 +50,7 @@ A port of Dayle Rees's Earthsong color scheme for Atom
 
 }
 </pre>
+```
 
 ## References
 
